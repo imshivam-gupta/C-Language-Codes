@@ -11,7 +11,7 @@ int main()
    printf("Enter 2nd Number\a\n");
    scanf("%d",&integer2);
    
-   int sum=integer1+integer1;
+   int sum=integer1+integer2;
    
    printf("Required Sum is %d\n",sum);
    
